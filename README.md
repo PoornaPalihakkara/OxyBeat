@@ -163,7 +163,7 @@ Desk workers and students often go hours without thinking about their physical w
 | **Dinali** | DHT11 room temperature sensing & green LED control |
 | **Vinuka** | Blynk IoT integration, Wi-Fi connectivity & cloud data streaming |
 
-> First Year — First Semester Group Project &nbsp;|&nbsp; **SLIIT, Sri Lanka — 2025**
+> First Year - First Semester Group Project &nbsp;|&nbsp; **SLIIT, Sri Lanka - 2025**
 
 ---
 
@@ -173,7 +173,7 @@ Desk workers and students often go hours without thinking about their physical w
 - [SparkFun MAX30105 Library](https://github.com/sparkfun/SparkFun_MAX3010x_Sensor_Library)
 - [U8g2 Graphics Library](https://github.com/olikraus/u8g2)
 - [Blynk IoT Documentation](https://docs.blynk.io/)
-- [DS18B20 with ESP32 — Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/)
+- [DS18B20 with ESP32 - Random Nerd Tutorials](https://randomnerdtutorials.com/esp32-ds18b20-temperature-arduino-ide/)
 - [DHT11 Sensor Guide](https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-sensor-arduino-ide/)
 - [HC-SR04 Ultrasonic Sensor Guide](https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino/)
 
@@ -183,7 +183,7 @@ Desk workers and students often go hours without thinking about their physical w
 
 This project was developed as part of academic coursework at **SLIIT** and is intended for educational purposes. Feel free to reuse or build upon it - just make sure to credit the original team. Released under the [MIT License](LICENSE).
 
-© 2025 _Y1S1Mtr8_ — **OxyBeat**
+© 2025 _Y1S1Mtr8_ - **OxyBeat**
 
 ---
 
