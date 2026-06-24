@@ -11,7 +11,7 @@ A compact, always-on health monitor built on the ESP32, purpose-built for anyone
 - [What It Can Do](#what-it-can-do)
 - [Hardware](#hardware)
 - [How the System Fits Together](#how-the-system-fits-together)
-- [Software & Libraries](#software--libraries)
+- [Software and Libraries](#software-and-libraries)
 - [Pin Map](#pin-map)
 - [Running the Project](#running-the-project)
 - [The Team](#the-team)
@@ -85,7 +85,7 @@ Desk workers and students often go hours without thinking about their physical w
 
 ---
 
-## 💾 Software & Libraries
+## 💾 Software and Libraries
 
 | Library | Purpose |
 |---|---|
