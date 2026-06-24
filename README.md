@@ -133,16 +133,16 @@ Desk workers and students often go hours without thinking about their physical w
    cd OxyBeat
    ```
 
-2. Open `OxyBeat.ino` in Arduino IDE
+2. Open `code/OxyBeat.ino` in Arduino IDE
 
 3. Fill in your Blynk credentials:
-   ```cpp
+```cpp
    #define BLYNK_TEMPLATE_ID   "your_template_id"
    #define BLYNK_TEMPLATE_NAME "your_template_name"
    char auth[] = "your_auth_token";
    char ssid[] = "your_wifi_name";
    char pass[] = "your_wifi_password";
-   ```
+```
 
 4. Select `ESP32 Dev Module` under `Tools > Board`
 
