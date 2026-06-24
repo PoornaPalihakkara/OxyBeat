@@ -74,7 +74,7 @@ Desk workers and students often go hours without thinking about their physical w
 
 ---
 
-## 🔗 How the System Fits Together
+## 🏗️ How the System Fits Together
 
 - The **MAX30102** samples infrared and red light through the fingertip, feeding a rolling data window that calculates BPM and SpO2 in real time
 - The **DS18B20** polls body temperature over a single wire and triggers the buzzer if a threshold is crossed
