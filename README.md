@@ -5,19 +5,19 @@ A compact, always-on health monitor built on the ESP32, purpose-built for anyone
 ---
 
 ## 🗂️ Table of Contents
-- [What is OxyBeat?](#what-is-oxybeat)
-- [The Problem We Solve](#the-problem-we-solve)
-- [What We Set Out to Learn](#what-we-set-out-to-learn)
-- [What It Can Do](#what-it-can-do)
-- [Hardware](#hardware)
-- [How the System Fits Together](#how-the-system-fits-together)
-- [Software and Libraries](#software-and-libraries)
-- [Pin Map](#pin-map)
-- [Running the Project](#running-the-project)
-- [The Team](#the-team)
-- [References](#references)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [What is OxyBeat?](#-what-is-oxybeat)
+- [The Problem We Solve](#-the-problem-we-solve)
+- [What We Set Out to Learn](#-what-we-set-out-to-learn)
+- [What It Can Do](#-what-it-can-do)
+- [Hardware](#-hardware)
+- [How the System Fits Together](#-how-the-system-fits-together)
+- [Software and Libraries](#-software-and-libraries)
+- [Pin Map](#-pin-map)
+- [Running the Project](#-running-the-project)
+- [The Team](#-the-team)
+- [References](#-references)
+- [License](#-license)
+- [Acknowledgements](#-acknowledgements)
 
 ---
 
